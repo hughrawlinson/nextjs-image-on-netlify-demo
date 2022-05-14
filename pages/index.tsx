@@ -8,6 +8,7 @@ export default function Home() {
       <Head>
         <title>NextJS Image on Netlify Demo</title>
         <meta name="description" content="NextJS Image on Netlify Demo" />
+        <meta name="color-scheme" content="dark light" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
