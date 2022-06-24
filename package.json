@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@netlify/ipx": "^1.1.0",
+    "@netlify/ipx": "^1.1.2",
     "@netlify/plugin-nextjs": "^4.9.1",
     "ipx": "^0.9.6",
     "netlify-plugin-ipx": "^0.0.1",
