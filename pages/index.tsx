@@ -28,13 +28,21 @@ export default function Home() {
           <p>
             You are looking at the deploy WITH Netlify Edge Functions. If you
             inspect the network traffic, you should expect to see the below
-            image downloaded in WebP format.
+            image downloaded in WebP format. You can also visit the version of
+            this site{" "}
+            <a href="https://nextjs-image-on-netlify-demo.netlify.app/">
+              without edge functions
+            </a>
           </p>
         ) : (
           <p>
             You are looking at the deploy WITHOUT Netlify Edge Functions. If you
             inspect the network traffic, you should expect to see the below
-            image downloaded in the outdated original jpg format.
+            image downloaded in the outdated original jpg format. You can also
+            visit the version of this site{" "}
+            <a href="https://nextjs-image-on-netlify-demo-with-edge-functions.netlify.app/">
+              with edge functions
+            </a>
           </p>
         )}
         <p>The following image is rendered with the NextJS Image component.</p>
