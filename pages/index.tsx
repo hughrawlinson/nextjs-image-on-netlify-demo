@@ -28,7 +28,7 @@ export default function Home() {
           <p>
             You are looking at the deploy WITH Netlify Edge Functions. If you
             inspect the network traffic, you should expect to see the below
-            image downloaded in AVIF or WebP format.
+            image downloaded in WebP format.
           </p>
         ) : (
           <p>
