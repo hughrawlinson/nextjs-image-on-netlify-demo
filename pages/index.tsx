@@ -49,6 +49,7 @@ export default function Home() {
         <Image
           src={demoImage}
           alt="A landscape image of a verdent maritime setting for demo purposes"
+          layout="fixed"
           width={400 * 1.77}
           height={400}
           priority
