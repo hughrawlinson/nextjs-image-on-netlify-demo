@@ -10,7 +10,7 @@
   "dependencies": {
     "@netlify/ipx": "^1.2.2",
     "@netlify/plugin-nextjs": "^4.21.1",
-    "ipx": "^0.9.10",
+    "ipx": "^0.9.11",
     "netlify-plugin-ipx": "^0.0.1",
     "next": "12.2.5",
     "react": "18.2.0",
